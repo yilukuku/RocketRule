@@ -1,0 +1,9 @@
+#!name=FuckAds
+#!desc=去广告配置，从网络上收集
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Proxy.list,proxy
+RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Reject_NeoHosts.list,reject
+RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Reject_KillAD.list,reject
+
+

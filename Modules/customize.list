@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,sdk.e.qq.com
 DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,als.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,feed-image.baidu.com
 
 #抖音
 DOMAIN-SUFFIX,p3-sign.douyinpic.com
@@ -49,5 +50,5 @@ DOMAIN-SUFFIX,cdn-new-ad.wtzw.com
 DOMAIN-SUFFIX,et.tanx.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,adukwai.com
-DOMAIN-SUFFIX,
-cdn.bcebos.com
+DOMAIN-SUFFIX,cdn.bcebos.com
+DOMAIN-SUFFIX,oss-cn-zhangjiakou.aliyuncs.com

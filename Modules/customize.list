@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,zijieapi.com
-#DOMAIN-SUFFIX,
-#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,bytescm.com
+#DOMAIN-SUFFIX,bytetos.com
 #DOMAIN-SUFFIX,
 #DOMAIN-SUFFIX,
 
@@ -49,3 +49,5 @@ DOMAIN-SUFFIX,cdn-new-ad.wtzw.com
 DOMAIN-SUFFIX,et.tanx.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,
+cdn.bcebos.com

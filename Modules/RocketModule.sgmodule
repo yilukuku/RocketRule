@@ -2,8 +2,11 @@
 #!desc=去广告配置，从网络上收集
 
 [Rule]
+#代理列表
 RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Proxy.list,proxy
+#NeoHosts列表
 RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Reject_NeoHosts.list,reject
 RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Reject_KillAD.list,reject
+#自定义列表
 RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/customize.list,reject
 

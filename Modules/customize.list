@@ -12,12 +12,12 @@ DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,zijieapi.com
+#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
 
 #京东
 DOMAIN-SUFFIX,janapi.jd.com
@@ -28,16 +28,24 @@ DOMAIN-SUFFIX,pro.bugly.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,sdk.e.qq.com
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
 
 #百度
 DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,als.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
 
+#抖音
+DOMAIN-SUFFIX,p3-sign.douyinpic.com
+#DOMAIN-SUFFIX,
+
+#阿里
+DOMAIN-SUFFIX,cdn-new-ad.wtzw.com
+
 #其他
 DOMAIN-SUFFIX,et.tanx.com
 DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,adukwai.com

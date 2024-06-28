@@ -28,9 +28,9 @@ DOMAIN-SUFFIX,pro.bugly.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,sdk.e.qq.com
-#DOMAIN-SUFFIX,myqcloud.com
-#DOMAIN-SUFFIX,
-#DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,vd6.l.qq.com
+DOMAIN-SUFFIX,vi.l.qq.com
 #DOMAIN-SUFFIX,
 
 #百度

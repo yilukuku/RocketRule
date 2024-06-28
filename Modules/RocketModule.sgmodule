@@ -5,5 +5,5 @@
 RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Proxy.list,proxy
 RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Reject_NeoHosts.list,reject
 RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/Reject_KillAD.list,reject
-
+RULE-SET,https://raw.githubusercontent.com/yilukuku/RocketRule/main/Modules/customize.list,reject
 

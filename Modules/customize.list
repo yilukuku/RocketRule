@@ -28,11 +28,11 @@ DOMAIN-SUFFIX,xlog.jd.com
 DOMAIN-SUFFIX,pro.bugly.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
-DOMAIN-SUFFIX,sdk.e.qq.com
+DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,vd6.l.qq.com
 DOMAIN-SUFFIX,vi.l.qq.com
-#DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
 
 #百度
 DOMAIN-SUFFIX,mobads.baidu.com
@@ -49,6 +49,8 @@ DOMAIN-SUFFIX,cdn-new-ad.wtzw.com
 DOMAIN-SUFFIX,qm989.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,ut.taobao.com
+DOMAIN-SUFFIX,mpush-api.aliyun.com
 
 #其他
 DOMAIN-SUFFIX,et.tanx.com

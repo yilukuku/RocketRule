@@ -31,11 +31,11 @@ DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,vd6.l.qq.com
 DOMAIN-SUFFIX,vi.l.qq.com
-DOMAIN,c.l.qq.com
-DOMAIN,e.qq.com
-DOMAIN,livep.l.qq.com
-DOMAIN,livew.l.qq.com
-DOMAIN,news.l.qq.com
+DOMAIN-SUFFIX,c.l.qq.com
+DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,livep.l.qq.com
+DOMAIN-SUFFIX,livew.l.qq.com
+DOMAIN-SUFFIX,news.l.qq.com
 DOMAIN-SUFFIX,adsfile.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
@@ -61,11 +61,11 @@ DOMAIN-SUFFIX,zxpic.gtimg.com
 DOMAIN-SUFFIX,zxpic.imtt.qq.com
 
 #百度
-DOMAIN,a.baidu.com
-DOMAIN,adm.baidu.com
-DOMAIN,c.baidu.com
-DOMAIN,e.baidu.com
-DOMAIN,eiv.baidu.com
+DOMAIN-SUFFIX,a.baidu.com
+DOMAIN-SUFFIX,adm.baidu.com
+DOMAIN-SUFFIX,c.baidu.com
+DOMAIN-SUFFIX,e.baidu.com
+DOMAIN-SUFFIX,eiv.baidu.com
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,als.baidu.com
 DOMAIN-SUFFIX,api.youqian.baidu.com

@@ -747,6 +747,7 @@ DOMAIN-SUFFIX,cm.ad.bilibili.com
 DOMAIN-SUFFIX,cm.adcommon.bilibili.com
 DOMAIN-SUFFIX,cm.game.bilibili.com
 DOMAIN-SUFFIX,cm.track.biligame.bilibili.com
+DOMAIN,xy139x170x157x119xy2408y8776y1y34yy70xy.mcdn.bilivideo.cn
 # > 百度地图 - BAIDUMAP
 DOMAIN,afd.baidu.com
 DOMAIN,afdconf.baidu.com

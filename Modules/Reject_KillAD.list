@@ -1,6 +1,8 @@
 # 手工定义的 Reject 列表
 DOMAIN-SUFFIX,ad.12306.cn
 DOMAIN-SUFFIX,pgdt.gtimg.cn
+# 领智云
+DOMAIN-KEYWORD,lingshi
 #百度（可能有多余项）
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,entry.baidu.com
